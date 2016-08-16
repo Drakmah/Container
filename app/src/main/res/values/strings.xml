@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Container Test</string>
+    <string name="action_settings">Opciones</string>
+    <string name="section_format">Hola mundo desde la seccion: %1$d</string>
+    <string name="form_1">Nombre</string>
+    <string name="form_2">Apellidos</string>
+    <string name="form_3">Salvar</string>
+    <string name="form_4">Cancelar</string>
+
+</resources>
